@@ -15,7 +15,8 @@ mondrian.svg: 28x28px canvas, 3 leaves, depth 2, mode=compact, min-leaf=14.0
 
 ```sh
 python3 mondrian.py "[8 [1 0] 8 [1 6 [5 [1 43] 4 0 6] [0 6] 9 2 10 [6 4 0 6] 0 1] 9 2 0 1]"
-mondrian.svg: 154x126px canvas, 27 leaves, depth 15, mode=compact, min-leaf=14.0```
+mondrian.svg: 154x126px canvas, 27 leaves, depth 15, mode=compact, min-leaf=14.0
+```
 
 ![](gate.svg)
 
